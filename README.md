@@ -1,2 +1,0 @@
-# SimHor
-Proyecto Final DASW
